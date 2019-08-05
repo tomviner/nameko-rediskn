@@ -29,6 +29,7 @@ setup(
             'black;python_version>"3.5"',
             'isort',
             'restructuredtext-lint',
+            'tox-travis',
             'Pygments',
         ]
     },
